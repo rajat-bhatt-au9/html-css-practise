@@ -1,0 +1,41 @@
+body {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  margin-left: 60px;
+  margin-right: 60px;
+}
+.container {
+  background-color: gainsboro;
+  padding-right: 30px;
+  padding-left: 30px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.heading {
+  text-align: center;
+  border-style: solid;
+  border-color: gold;
+  border-width: 1px;
+}
+.about {
+  border-style: solid;
+  border-color: gold;
+  border-width: 1px;
+}
+.about-heading {
+  text-align: center;
+}
+.about-content {
+  /* margin-left: 20px;
+  margin-right: 20px; */
+  border-style: solid;
+  border-color: rgb(175, 173, 173);
+  border-width: 1px;
+}
+img {
+  position: relative;
+  width: 550px;
+  height: 550px;
+  overflow: hidden;
+  border-radius: 50%;
+}
